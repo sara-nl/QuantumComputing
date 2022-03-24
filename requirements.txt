@@ -7,3 +7,4 @@ calico==1.2.0
 calysto==1.0.6
 cite2c==0.2.1
 jupyter_contrib_nbextensions==0.5.1
+jupyterlab-citation-manager==0.3.0
