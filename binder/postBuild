@@ -2,7 +2,7 @@
 
 echo "Create folder for the startup script..."
 mkdir -p ~/.ipython/profile_default/
-cp startup ~/.ipython/profile_default/
+cp binder/startup ~/.ipython/profile_default/
 ls
 ls ~/.ipython/profile_default
 echo "Done..."
