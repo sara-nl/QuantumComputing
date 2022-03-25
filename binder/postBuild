@@ -5,5 +5,5 @@ mkdir -p ~/.ipython/profile_default/startup
 echo "Done..."
 
 echo "Copy the startup script..."
-cp binder/0-init-python-env.py ~/.ipython/profile_default/
+cp binder/0-init-python-env.ipy ~/.ipython/profile_default/
 echo "Done..."
