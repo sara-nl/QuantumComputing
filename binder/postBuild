@@ -1,4 +1,6 @@
 #!/bin/bash
 
-ls ~/.ipython/profile_default/startup
-#mkdir ~/.ipython/profile_default/startup
+echo "Create folder for the startup script..."
+mkdir -p ~/.ipython/profile_default/
+ls
+ls ~/.ipython/profile_default
