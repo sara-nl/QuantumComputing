@@ -1,5 +1,5 @@
-%load_ext autoreload
-%matplotlib inline
+#%load_ext autoreload
+#%matplotlib inline
 
 # generic packages
 
@@ -19,4 +19,4 @@ def alert():
     js = """alert("All done!");"""
     display(Javascript(js))
 
-%autoreload 2
+#%autoreload 2
