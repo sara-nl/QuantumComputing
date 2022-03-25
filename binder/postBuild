@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ls ~/.ipython/profile_default/startup
+#mkdir ~/.ipython/profile_default/startup
