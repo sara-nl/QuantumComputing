@@ -2,7 +2,8 @@
 
 echo "Create folder for the startup script..."
 mkdir -p ~/.ipython/profile_default/
+echo "Done..."
+
+echo "Copy the startup script..."
 cp binder/startup ~/.ipython/profile_default/
-ls
-ls ~/.ipython/profile_default
 echo "Done..."
