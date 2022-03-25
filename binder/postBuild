@@ -1,9 +1,9 @@
 #!/bin/bash
 
 echo "Create folder for the startup script..."
-mkdir -p ~/.ipython/profile_default/
+mkdir -p ~/.ipython/profile_default/startup
 echo "Done..."
 
 echo "Copy the startup script..."
-cp binder/startup ~/.ipython/profile_default/
+cp binder/0-init-python-env.py ~/.ipython/profile_default/
 echo "Done..."
