@@ -1,0 +1,10 @@
+If a 1-qubit gate is applied locally on one of two qubits, we can write this
+as a 2-qubit unitary
+If a 2-qubit gate is applied locally on qubits 1 and 3, we can write this as
+a 3-qubit unitary: 
+Quantum algorithm
+A quantum algorithm is an infinite family C1, C2, . . . of quantum
+circuits, where Cn acts on n qubits and consists of a finite sequence of
+1-qubit and 2-qubit gates: Cn = (U1, U2, . . . , UL(n)) where L(n) denotes
+the number of gates in the circuit. The map n → Cn must be efficiently
+computable (e.g., in polynomial time on a deterministic Turing machine).
