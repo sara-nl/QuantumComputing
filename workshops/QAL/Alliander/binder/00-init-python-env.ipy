@@ -15,8 +15,8 @@ from IPython.display import Javascript
 ##import matplotlib.pyplot as plt
 ##from mpl_toolkits.axes_grid1.inset_locator import mark_inset, inset_axes
 
-#def alert():  
-#    js = """alert("All done!");"""
-#    display(Javascript(js))
+##def alert():  
+##    js = """alert("All done!");"""
+##    display(Javascript(js))
 
 #%autoreload 2
