@@ -1,0 +1,10 @@
+qiskit==0.33.0
+pylatexenc==2.10
+matplotlib==3.5.0
+numpy==1.21.4
+pandas==1.3.4
+calico==1.2.0
+calysto==1.0.6
+cite2c==0.2.1
+jupyter_contrib_nbextensions==0.5.1
+jupyterlab-citation-manager==0.3.0

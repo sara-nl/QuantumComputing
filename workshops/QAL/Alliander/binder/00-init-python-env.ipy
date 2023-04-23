@@ -1,0 +1,22 @@
+#%load_ext autoreload
+#%matplotlib inline
+
+# generic packages
+
+import os
+import numpy as np
+import pandas as pd
+import matplotlib as mpl
+from IPython.display import Javascript
+
+# the quantum packages to import 
+##from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister, execute, Aer, IBMQ
+##from qiskit.visualization import plot_bloch_multivector, plot_histogram
+##import matplotlib.pyplot as plt
+##from mpl_toolkits.axes_grid1.inset_locator import mark_inset, inset_axes
+
+#def alert():  
+#    js = """alert("All done!");"""
+#    display(Javascript(js))
+
+#%autoreload 2
